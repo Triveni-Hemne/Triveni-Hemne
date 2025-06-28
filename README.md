@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Triveni Hemne, currently working as a Trainer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a open to work and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
+I am Triveni Hemne, currently working as Software Engineer and Trainer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a open to work and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-trivenihemne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/triveni-hemne-6a30b1211/)](https://www.linkedin.com/in/triveni-hemne-6a30b1211/)
 [![Gmail Badge](https://img.shields.io/badge/-trivenihemne1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trivenihemne1999@gmail.com)](mailto:trivenihemne1999@gmail.com)
