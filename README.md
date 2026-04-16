@@ -1,72 +1,82 @@
-# Hi, I'm Triveni Hemne 👋
+# Hi, I'm Triveni Hemne 👋  
 
-💻 Backend Developer | Laravel | MySQL  
-🚀 Exploring Full Stack (Vue.js, Inertia.js, Tailwind CSS)
+💻 Backend Developer (Laravel, MySQL)  
+🚀 Transitioning into Full Stack (Vue.js, Inertia.js, Tailwind CSS)  
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 - 3+ years of experience as a Software Engineer & Trainer  
-- Built real-world financial systems and backend applications  
-- Worked on live client projects and production systems  
-- Passionate about solving real-world problems through code  
-- Currently focusing on modern full-stack development  
+- Built real-world financial and transaction-based systems  
+- Worked on live client projects and production applications  
+- Mentored students and helped them build academic + real-world projects  
+- Passionate about solving real-world problems through clean and scalable code  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-**Backend:**  
-Laravel, PHP, MySQL  
+**Backend**  
+Laravel • PHP • MySQL  
 
-**Frontend:**  
-Vue.js, Inertia.js, Tailwind CSS, Bootstrap  
+**Frontend**  
+Vue.js • Inertia.js • Tailwind CSS • Bootstrap  
 
-**Tools & Others:**  
-Git, GitHub, Postman, cPanel  
+**Tools**  
+Git • GitHub • Postman • cPanel  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
-### 🏦 Mini Bank System
+### 🏦 Mini Bank System  
 - Full-stack banking application  
 - Built with Laravel + Vue 3 + Inertia.js  
-- Includes accounts, transactions, dashboards, reports  
-- Authentication using Laravel Sanctum  
+- Includes accounts, transactions, dashboards, and reports  
+- Secure authentication using Laravel Sanctum  
 
-👉 GitHub: https://github.com/Triveni-Hemne
+👉 GitHub: https://github.com/Triveni-Hemne  
 
 ---
 
-### 🏢 Cooperative Society Management System
-- Financial system for managing accounts, transactions, reports  
-- Includes modules like passbook, loan, ledger, vouchers  
+### 🏢 Cooperative Society Management System  
+- Financial system for managing accounts, transactions, and reports  
+- Modules: Passbook, Loan, Ledger, Vouchers  
 - Built using Laravel & MySQL  
 
-🔒 Code not public (company project)
+🔒 Code not public (company project)  
 
 ---
 
-### 🧪 Online Examination System
+### 🧪 Online Examination System  
 - Admin dashboard + exam interface  
-- Automated result calculation  
+- Automated result calculation system  
 - Built with Laravel  
 
-🔒 Code not public (company project)
+🔒 Code not public (company project)  
 
 ---
 
-## 🌱 Currently Learning
+## 💼 Experience Highlights  
+
+- Built and optimized backend systems with Laravel & MySQL  
+- Developed financial modules like ledger, vouchers, and transactions  
+- Worked on live client projects (UI improvements, bug fixes, deployment)  
+- Mentored 70+ students in web development  
+- Delivered multiple training batches on HTML, CSS, MySQL, and PHP  
+
+---
+
+## 🌱 Currently Learning  
 
 - Advanced Vue.js ecosystem  
-- Full-stack architecture (Laravel + Inertia)  
-- Clean and scalable system design  
+- Full-stack architecture (Laravel + Inertia.js)  
+- Scalable system design  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me  
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/triveni-hemne-6a30b1211  
 - 💻 GitHub: https://github.com/Triveni-Hemne  
@@ -74,28 +84,23 @@ Git, GitHub, Postman, cPanel
 
 ---
 
+## ⚡ Tech & Tools  
+
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![Triveni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triveni-Hemne&show_icons=true&theme=default)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triveni-Hemne&layout=compact)  
+
+---
+
 ⭐ If you like my work, feel free to explore my repositories!
-[![Linkedin Badge](https://img.shields.io/badge/-trivenihemne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/triveni-hemne-6a30b1211/)](https://www.linkedin.com/in/triveni-hemne-6a30b1211/)
-[![Gmail Badge](https://img.shields.io/badge/-trivenihemne1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trivenihemne1999@gmail.com)](mailto:trivenihemne1999@gmail.com)
-
-## ⚡ Technologies
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-
-[![Triveni's github stats](https://github-readme-stats.vercel.app/api?username=Triveni-Hemne)](https://github.com/Triveni-Hemne/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triveni-Hemne&layout=compact)](https://github.com/Triveni-Hemne/github-readme-stats)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Triveni-Hemne.Triveni-Hemne)
