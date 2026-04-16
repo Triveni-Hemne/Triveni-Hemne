@@ -1,7 +1,80 @@
-### Hi there 👋
+# Hi, I'm Triveni Hemne 👋
 
-I am Triveni Hemne, currently working as Software Engineer and Trainer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a open to work and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
+💻 Backend Developer | Laravel | MySQL  
+🚀 Exploring Full Stack (Vue.js, Inertia.js, Tailwind CSS)
 
+---
+
+## 👨‍💻 About Me
+
+- 3+ years of experience as a Software Engineer & Trainer  
+- Built real-world financial systems and backend applications  
+- Worked on live client projects and production systems  
+- Passionate about solving real-world problems through code  
+- Currently focusing on modern full-stack development  
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**  
+Laravel, PHP, MySQL  
+
+**Frontend:**  
+Vue.js, Inertia.js, Tailwind CSS, Bootstrap  
+
+**Tools & Others:**  
+Git, GitHub, Postman, cPanel  
+
+---
+
+## 📌 Featured Projects
+
+### 🏦 Mini Bank System
+- Full-stack banking application  
+- Built with Laravel + Vue 3 + Inertia.js  
+- Includes accounts, transactions, dashboards, reports  
+- Authentication using Laravel Sanctum  
+
+👉 GitHub: https://github.com/Triveni-Hemne
+
+---
+
+### 🏢 Cooperative Society Management System
+- Financial system for managing accounts, transactions, reports  
+- Includes modules like passbook, loan, ledger, vouchers  
+- Built using Laravel & MySQL  
+
+🔒 Code not public (company project)
+
+---
+
+### 🧪 Online Examination System
+- Admin dashboard + exam interface  
+- Automated result calculation  
+- Built with Laravel  
+
+🔒 Code not public (company project)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Vue.js ecosystem  
+- Full-stack architecture (Laravel + Inertia)  
+- Clean and scalable system design  
+
+---
+
+## 🤝 Let's Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/triveni-hemne-6a30b1211  
+- 💻 GitHub: https://github.com/Triveni-Hemne  
+- 📧 Email: trivenihemne1999@gmail.com  
+
+---
+
+⭐ If you like my work, feel free to explore my repositories!
 [![Linkedin Badge](https://img.shields.io/badge/-trivenihemne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/triveni-hemne-6a30b1211/)](https://www.linkedin.com/in/triveni-hemne-6a30b1211/)
 [![Gmail Badge](https://img.shields.io/badge/-trivenihemne1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trivenihemne1999@gmail.com)](mailto:trivenihemne1999@gmail.com)
 
