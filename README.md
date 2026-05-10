@@ -97,9 +97,9 @@ Git • GitHub • Postman • cPanel
 
 ## 📊 GitHub Stats  
 
-![Triveni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triveni-Hemne&show_icons=true&theme=default)  
+![Triveni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triveni-Hemne&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triveni-Hemne&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Triveni-Hemne&layout=compact&theme=dark&hide_border=true) 
 
 ---
 
